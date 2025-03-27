@@ -1,1 +1,1 @@
-- **Documentation:** [Follow this link](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-305/)
+- **Documentation:** [Follow this link](https://fortunate-headlight-ff9.notion.site/ADQ-UBUNTUDESKTOP-IAC-8caceafdf6f14875810396b9a136a86e)
