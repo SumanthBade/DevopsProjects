@@ -1,0 +1,1 @@
+- **Documentation:** [Follow this link](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-305/)
